@@ -1053,6 +1053,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -1086,6 +1087,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -1139,6 +1142,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -1172,6 +1176,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -2025,6 +2031,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -2058,6 +2065,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -2911,6 +2920,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -2944,6 +2954,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -3728,6 +3740,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -3761,6 +3774,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -4546,6 +4561,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -4579,6 +4595,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -5364,6 +5382,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -5397,6 +5416,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -6182,6 +6203,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -6215,6 +6237,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -7000,6 +7024,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -7033,6 +7058,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -7817,6 +7844,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -7850,6 +7878,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
@@ -8635,6 +8665,7 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                           "isStatic": false,
                           "lastClassName": "jNPkhE",
                           "rules": Array [
+<<<<<<< HEAD
                             "background-color:",
                             "#FFF",
                             ";border-color:",
@@ -8668,6 +8699,8 @@ exports[`<ContentPacksList /> should render with content packs 1`] = `
                             ";background-color:",
                             "#9E1F63",
                             ";}}}",
+=======
+>>>>>>> f424759c0... Updating ThemeProvider
                             [Function],
                           ],
                         },
